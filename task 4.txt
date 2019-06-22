@@ -1,0 +1,3 @@
+python-study about immutability
+english-study about new words
+aptitude -practice qes
